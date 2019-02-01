@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="mit" content="2018-09-25T11:18:52-03:00+29415">
         <meta name="viewport" content="width=device-width,initial-scale=1">
-        <title>framework css</title>
+        <title>Mini framework css</title>
 
         <link rel="stylesheet" href="css/boot.css"/>
         <link rel="stylesheet" href="css/style.css"/>
